@@ -1,2 +1,2 @@
-![9B7DB19CE68C2F08685D07B6CFECFFDE](https://user-images.githubusercontent.com/102962613/161659170-50bf164d-f26c-49fd-b9fe-8835b37d89b7.jpg)
+![B279B3CCD1FED3CF4027F02A25273272](https://user-images.githubusercontent.com/102962613/170157455-2d7af479-b899-4b0a-a07e-a4523ec61075.jpg)
 # 虾滑的Electronic Products艺术之旅  
