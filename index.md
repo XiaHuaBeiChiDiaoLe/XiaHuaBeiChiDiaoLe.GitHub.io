@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>山羊の前端小窝</title>
+    <title>虾滑のElectronic Product的艺术之旅</title>
     <link rel="stylesheet" href="./css/index.css">
     <link rel="stylesheet" href="./css/all.css">
 </head>
@@ -15,17 +15,17 @@
         <div class="shell-top">
             <div class="word">
                 <h2>Welcome to</h2>
-                <h2>山羊の前端小窝</h2>
+                <h2>虾滑のElectronic Product的艺术之旅</h2>
             </div>
 
-            <video src="./image/synth city by VISUALDON 4K 60 FPS.mP4" loop autoplay muted></video>
+            <video src=![2](https://user-images.githubusercontent.com/102962613/171544376-848d0c5a-6ebd-4281-9f87-20d95a098553.png)
 
         </div>
         <div class="shell-main">
             <div class="shell-main-nav">
                 <div class="logo">
                     <img src="./image/logo.jpg" alt="">
-                    <span>山羊の前端小窝</span>
+                    <span>虾滑のElectronic Product的艺术之旅</span>
                 </div>
                 <ul>
                     <li><a href="./index.html">关于我们</a></li>
